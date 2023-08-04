@@ -16,16 +16,16 @@
 # title: song
 
 baseurl: ""
-url: "https://yun-long.github.io/"
+url: "https://dengboyuan.github.io/"
 permalink: /:year/:month/:day/:title
 paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://github.com/yun-long"
-rpg_profile: "http://rpg.ifi.uzh.ch/people.html"
-user: "Yunlong Song"
-user_email: "song@ifi.uzh.ch"
-disqus_shortname: "yunlong"
+# rpg_profile: "http://rpg.ifi.uzh.ch/people.html"
+user: "Deng Bo Yuan"
+user_email: "dengboyuanalan@gmail.com"
+disqus_shortname: "alan"
 
 # Build settings
 markdown: kramdown
