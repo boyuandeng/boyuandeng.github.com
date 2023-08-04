@@ -16,7 +16,7 @@
 # title: song
 
 baseurl: ""
-url: "https://dengboyuan.github.io/"
+url: "https://BoyuanDeng.github.io/"
 permalink: /:year/:month/:day/:title
 paginate: 5
 
