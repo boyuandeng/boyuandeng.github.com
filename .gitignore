@@ -1,0 +1,5 @@
+*.sh
+_site
+backup
+.DS_Store
+

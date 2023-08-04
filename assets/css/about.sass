@@ -1,0 +1,23 @@
+---
+---
+@mixin transition($args...)
+  -webkit-transition: $args
+  -moz-transition: $args
+  -ms-transition: $args
+  -o-transition: $args
+  transition: $args
+
+.user-pic
+  img
+    width: 500px
+    height: auto
+
+.hidden
+  display: none
+
+.circular--square
+  border-top-left-radius: 50% 50%
+  border-top-right-radius: 50% 50%
+  border-bottom-right-radius: 50% 50%
+  border-bottom-left-radius: 50% 50%
+
