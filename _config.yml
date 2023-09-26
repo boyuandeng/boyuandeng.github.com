@@ -16,12 +16,12 @@
 # title: song
 
 baseurl: ""
-url: "https://BoyuanDeng.github.io/"
+url: "https://boyuandeng.github.io/"
 permalink: /:year/:month/:day/:title
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/BoyuanDeng"
+github_profile: "https://github.com/boyuandeng"
 # rpg_profile: "http://rpg.ifi.uzh.ch/people.html"
 user: "Deng Bo Yuan"
 user_email: "dengboyuanalan@gmail.com"
