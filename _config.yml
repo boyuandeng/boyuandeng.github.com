@@ -23,10 +23,10 @@ paginate: 5
 # MatJek specific configurations
 github_profile: "https://github.com/boyuandeng"
 # rpg_profile: "http://rpg.ifi.uzh.ch/people.html"
-user: "Deng Bo Yuan"
+user: "Boyuan Deng"
 user_email: "dengboyuanalan@gmail.com"
 disqus_shortname: "alan"
-
+google_analytics: G-SNTTW307BH # your google analytics
 # Build settings
 markdown: kramdown
 gems:
