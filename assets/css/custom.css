@@ -1,0 +1,7 @@
+.clustrmaps-container {
+    width: 200px;  /* 自定义宽度 */
+    height: 200px; /* 自定义高度 */
+    overflow: hidden;
+    margin: auto;
+  }
+  
