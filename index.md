@@ -16,7 +16,7 @@ Hi! My name is **Boyuan Deng**. I am a first-year Ph. D. student in Robotics at 
 
 Previously, I was a Master student in Control Science at [BeiJing Institute of Technology](https://www.bit.edu.cn), advised by [Prof. Jian Sun](https://ac.bit.edu.cn/szdw/dsmd/bssds/8588c2df198b4a669374cc3134ffaa9e.htm).
 
-**This mortal comet arcs through night's velvet but once — may each soul trail stardust in its wake.**
+**This mortal comet arcs through night's velvet but once — may each soul trail stardust in its wake.**✨
 
 ## News 📰
 
