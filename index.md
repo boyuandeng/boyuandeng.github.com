@@ -10,7 +10,7 @@ no_excerpt: false
 hide_image: true
 ---
 
-# About
+# About{#about}
 
 Hi! My name is **Boyuan Deng**. I am a first-year Ph. D. student in Robotics at [Italian Institute of Technology](https://www.iit.it/) (IIT), advised by [Nikos Tsagarakis](https://hhcm.iit.it/our-staff-details/-/people/nikos-tsagarakis). My research interests lie in **robot learning**, **contact-rich task** and **online learning**.
 
