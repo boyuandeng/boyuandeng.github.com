@@ -51,13 +51,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /#about
+    url:               /#About
   - title:             Research
     url:               /#research
   - title:             Project
     url:               /#project
   - title:             Selected Talks
-    url:               /#talks/
+    url:               /#talks
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
