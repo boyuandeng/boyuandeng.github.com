@@ -56,6 +56,28 @@ Coming soon
     </p>
 
   </div>
+    <div style="flex: 1; padding-right: 20px;">
+    <a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/">
+      <video playsinline autoplay loop muted src="assets/video/L2R-WheelLegCoordination.mp4" poster="assets/img/research/L2R-WheelLegCoordination.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/" id="L2RNONFLAT">
+      <strong>Terrain-Adaptive Fall Recovery for Wheeled-Quadruped Robots: A Teacher-Guided Learning Framework</strong></a><br>
+      <strong>Boyuan Deng</strong>, Nikolaos Tsagarakis<br>
+      <em>arXiv</em><br>
+    </p>
+
+    <p>
+      <a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/">webpage</a> |
+      <a href="">arXiv</a> |
+      <a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/">code</a> |
+      <a href="">video</a>
+    </p>
+
+  </div>
 </div>
 
 
