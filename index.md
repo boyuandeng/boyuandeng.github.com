@@ -56,7 +56,10 @@ Coming soon
     </p>
 
   </div>
-    <div style="flex: 1; padding-right: 20px;">
+    
+</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="flex: 1; padding-right: 20px;">
     <a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/">
       <video playsinline autoplay loop muted src="assets/video/L2R-WheelLegCoordination.mp4" poster="assets/img/research/L2R-WheelLegCoordination.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
     </a>
@@ -79,8 +82,6 @@ Coming soon
 
   </div>
 </div>
-
-
 
 # Project
 
