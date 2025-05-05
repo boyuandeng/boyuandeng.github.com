@@ -67,7 +67,7 @@ Coming soon
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/" id="L2RNONFLAT">
+    <p><a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/" id="L2RNONFLAT">
       <strong>Terrain-Adaptive Fall Recovery for Wheeled-Quadruped Robots: A Teacher-Guided Learning Framework</strong></a><br>
       <strong>Boyuan Deng</strong>, Nikolaos Tsagarakis<br>
       <em>arXiv</em><br>
